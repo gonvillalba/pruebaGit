@@ -1,4 +1,7 @@
+print ("Hola mundo")
 print ("Hola Cleina Papelina")
 if cleina = 0
-	printa ("Chau Cleina")
+	print ("Chau Cleina")
+
+
 
